@@ -3,6 +3,7 @@
   "displayName": "icons-viewer-plugin",
   "description": "",
   "version": "0.0.1",
+  "publisher": "kosmonaf",
   "engines": {
     "vscode": "^1.96.0"
   },
